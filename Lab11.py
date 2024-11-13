@@ -1,3 +1,4 @@
+
 gradelist=[]
 passer=0
 student_count=0
@@ -21,7 +22,4 @@ print (f"Average Between All Students: {average:.2f}")
 print (f"Passers: {passer}")
 print (f"% of those who have passed: {percent_passer:.2f}%")
 print (f"Grades: {gradelist}")
-        
-            
-    
-        
+              

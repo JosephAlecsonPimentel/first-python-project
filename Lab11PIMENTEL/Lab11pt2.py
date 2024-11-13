@@ -1,2 +1,0 @@
-Anime = ("JUJUTSU KAISEN", "Dragon Ball Z", "Your Name", "One Punch Man", "Attack on Titan", "DanMachi", "Slam Dunk", "Demon Slayer", "Haikyu", "One Piece")
-num = int(input("Enter the numbers of Anime series that you wish to display in this input"))
